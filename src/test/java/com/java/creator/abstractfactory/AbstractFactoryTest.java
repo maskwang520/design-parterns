@@ -20,5 +20,7 @@ public class AbstractFactoryTest {
 
         Assert.assertEquals("dellmouse",dellMouse.getName());
         Assert.assertEquals("dellkeyboard",dellKeyBoard.getName());
+
+
     }
 }
