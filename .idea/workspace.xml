@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f655f2a6-4c57-429b-8d3a-c8697b40860b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design-parterns.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/java/creator/simplefactory/Cicle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/java/creator/simplefactory/Graph.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/java/creator/simplefactory/Rectangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/java/creator/simplefactory/SimpleFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/java/creator/simplefactory/SimpleFactoryTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f655f2a6-4c57-429b-8d3a-c8697b40860b" name="Default" comment="" />
     <ignored path="design-parterns.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -909,7 +901,7 @@
       <workItem from="1523062774038" duration="12046000" />
       <workItem from="1523101703113" duration="5071000" />
       <workItem from="1523277654764" duration="1416000" />
-      <workItem from="1523322834567" duration="3439000" />
+      <workItem from="1523322834567" duration="3466000" />
     </task>
     <task id="LOCAL-00001" summary="factory">
       <created>1523067210490</created>
@@ -953,7 +945,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523327122036</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add gitignore">
+      <created>1523327397113</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1523327397113</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -989,7 +988,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25910000" />
+    <option name="totallyTimeSpent" value="25937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
