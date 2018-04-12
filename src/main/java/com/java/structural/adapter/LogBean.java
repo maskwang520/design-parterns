@@ -1,4 +1,4 @@
-package com.java.creator.adapter;
+package com.java.structural.adapter;
 
 import java.util.Date;
 

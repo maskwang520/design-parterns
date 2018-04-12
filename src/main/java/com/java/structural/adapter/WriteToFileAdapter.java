@@ -1,4 +1,4 @@
-package com.java.creator.adapter;
+package com.java.structural.adapter;
 
 /**
  * Created by maskwang on 18-4-10.

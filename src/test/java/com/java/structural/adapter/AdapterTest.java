@@ -1,5 +1,9 @@
-package com.java.creator.adapter;
+package com.java.structural.adapter;
 
+import com.java.structural.adapter.ConcreteToDatabase;
+import com.java.structural.adapter.LogBean;
+import com.java.structural.adapter.WriteToDatabase;
+import com.java.structural.adapter.WriteToFileAdapter;
 import org.junit.Test;
 
 import java.util.Date;
