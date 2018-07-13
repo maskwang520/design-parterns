@@ -19,20 +19,20 @@ public class Facade {
         translate();
 
         //售后
-       afterSale();
+        afterSale();
     }
 
     //下订单
-    public void order(){
+    public void order() {
         orderOperation.operation();
     }
 
     //物流
-    public void translate(){
+    public void translate() {
         translateOperation.operation();
     }
 
-    public void afterSale(){
+    public void afterSale() {
         afterSale.operation();
     }
 }
