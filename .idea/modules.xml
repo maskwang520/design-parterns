@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/design-parterns.iml" filepath="$PROJECT_DIR$/design-parterns.iml" />
+      <module fileurl="file://E:\gitrepository\design-parterns\design-parterns.iml" filepath="E:\gitrepository\design-parterns\design-parterns.iml" />
     </modules>
   </component>
 </project>
